@@ -1,0 +1,28 @@
+{
+  "name": "newproject",
+  "version": "0.0.1",
+  "description": "\"this is a url project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PranavFaladu/incpecturl.git"
+  },
+  "keywords": [
+    "\"terminal",
+    "application\""
+  ],
+  "author": "Pranav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PranavFaladu/incpecturl/issues"
+  },
+  "homepage": "https://github.com/PranavFaladu/incpecturl#readme",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "validator": "^13.12.0"
+  }
+}
